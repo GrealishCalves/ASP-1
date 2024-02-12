@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "sessionmaker",
+        "sqlalchemy",
+        "usefixtures"
+    ],
+    "python.analysis.extraPaths": [
+        "./automation_framework/utilities/constants"
+    ]
+}
